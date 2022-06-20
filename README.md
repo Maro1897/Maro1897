@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maro1897
-- 👀 I’m interested in playing football.
-- 🌱 I’m currently learning python and Jira
+- 👀 I’m interested in programming in Python, new technologies and playing football.
+- 🌱 I’m currently learning Python and Jira
 - 💞️ I’m looking to collaborate on testing app and software
 - 📫 You can reach me on my email : forzajuve87@o2.pl
 
